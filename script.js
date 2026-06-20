@@ -1,5 +1,5 @@
 /**
- * A SONS EXCLUSIVES — script.js
+ * A.Sons EXCLUSIVES — script.js
  * Premium Multi-Brand Watch Retailer, Ghaziabad
  * Vanilla JS | No dependencies
  */
@@ -280,7 +280,7 @@
 
     // Build WhatsApp message
     const lines = [
-      'Hello A Sons Exclusives,',
+      'Hello A.Sons Exclusives,',
       '',
       `Name: ${name}`,
       `Phone: ${phone}`,
